@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192324639927",
+    "project_id": "fir-f72d2",
+    "storage_bucket": "fir-f72d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192324639927:android:b62706b88629c70810c132",
+        "android_client_info": {
+          "package_name": "com.example.firebase_workshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ZwaAyG4ZT1NQtgwvrfvXmIOOpLtyn9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
