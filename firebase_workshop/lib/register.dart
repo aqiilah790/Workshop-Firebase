@@ -23,7 +23,7 @@ class _RegisterPageState extends State<RegisterPage> {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Registrasi berhasil!')),
       );
-      Navigator.pop(context); // kembali ke login
+      Navigator.pop(context); // untuk kembali ke halaman login
     } on FirebaseAuthException catch (e) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(content: Text(e.message ?? 'Gagal registrasi')),
